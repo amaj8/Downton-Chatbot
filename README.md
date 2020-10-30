@@ -1,62 +1,63 @@
 # Downton-Chatbot
 Trained the PyTorch's chatbot by Matthew Inkawhich on the subtitles of Downton Abbey series. 
+The bot still gives gibberish responses and needs more training.
 
 # A snapshot of the chatbot in action
-> hello
+hello
 Bot: hello miss denker that is your mission today <PAD> <PAD>
-> what
+what
 Bot: lady mary crawley not at all <PAD> <PAD> <PAD> <PAD>
-> oh no
+oh no
 Bot: we are down to the bare bones as it is
-> how are you
+how are you
 Bot: really <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
-> help
+help
 Bot: i am afraid we must be going <PAD> <PAD> <PAD>
-> please
+please
 Bot: oh no <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
-> how are we feeling today
+how are we feeling today
 Bot: pretty <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
-> good
+good
 Bot: how was she i do not know <PAD> <PAD> <PAD>
-> i do not know
+i do not know
 Bot: maybe sometimes <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
-> sometimes what
+sometimes what
 Bot: is that all <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
-> no not yet
+no not yet
 Bot: i am not asking for properly <PAD> <PAD> <PAD> <PAD>
-> then ask
+then ask
 Bot: well it is a long time you know <PAD> <PAD>
-> i know
+i know
 Bot: but i do not like it <PAD> <PAD> <PAD> <PAD>
-> neither do i
+neither do i
 Bot: you must have second money <PAD> <PAD> <PAD> <PAD> <PAD>
-> no I don't
+no I don't
 Bot: oh my god er <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
-> why are you surprised
+why are you surprised
 Bot: i cannot stand by and watch our family <PAD> <PAD>
-> Watch what? 
+Watch what? 
 Bot: well that is one secret for her <PAD> <PAD> <PAD>
-> Won't you tell me the secret? 
+Won't you tell me the secret? 
 Bot: oh i think they have got my job <PAD> <PAD>
-> Who has your job
+Who has your job
 Bot: this is my home branson no no <PAD> <PAD> <PAD>
-> Who is Branson? 
+Who is Branson? 
 Bot: mr barrow <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
-> So branson is Mr. Barrow? 
+So branson is Mr. Barrow? 
 Bot: oh <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
-> Looks like you've lost your memory
+Looks like you've lost your memory
 Bot: all right <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
-> Do you want to go to a doctor?
+Do you want to go to a doctor?
 Bot: i think i know this is not a good day
-> Is this a bad day? 
+Is this a bad day? 
 Bot: i think that is a good evening where <PAD> <PAD>
-> Where?
+Where?
 Bot: hidden in your room <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
-> bye
+bye
 Bot: he says he has not got everything <PAD> <PAD> <PAD>
-> who
+who
 Bot: no but i think it is my job you are
-> bye now
+bye now
 Bot: well you see to us all right <PAD> <PAD> <PAD>
 
 
